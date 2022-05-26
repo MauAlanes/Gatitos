@@ -1,0 +1,8 @@
+.cont-cat{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    margin: 5%;
+    flex-direction: column;
+    width: 90%; height: 50%;
+}
